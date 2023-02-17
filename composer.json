@@ -1,6 +1,6 @@
 {
     "require": {
-        "firebase/php-jwt": "^4.0"
+        "firebase/php-jwt": "^6.0"
     },
     "require-dev": {
         "nextcloud/coding-standard": "^0.5.0",
